@@ -1,0 +1,14 @@
+# Backend (Node.js)
+server/node_modules/
+server/*.log
+server/*.env
+
+# Frontend (React)
+front-end/node_modules/
+front-end/*.log
+front-end/*.env
+
+# Common
+.DS_Store   # For macOS
+npm-debug.log
+yarn-error.log
